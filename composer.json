@@ -29,7 +29,7 @@
         "php-http/discovery": "^1.6",
         "psr/http-client": "^1.0",
         "psr/http-factory": "^1.0",
-        "symfony/options-resolver": "^4.4 || ^5.0",
+        "symfony/options-resolver": "^4.4 || ^5.0 || ^6.0",
         "jane-php/json-schema-runtime": "^7.0"
     },
     "require-dev": {
